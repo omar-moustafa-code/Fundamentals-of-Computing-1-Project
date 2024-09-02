@@ -1,0 +1,3 @@
+/Users/omar/CSCE1102/CS1_Project/cmake-build-debug/CMakeFiles/CS1_Project.dir
+/Users/omar/CSCE1102/CS1_Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/omar/CSCE1102/CS1_Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
